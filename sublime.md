@@ -4,7 +4,6 @@ ESC enter command mode ->  to vim
   - INSERT MODE
   - COMMAND MODE
   - VISUAL MODE
-  - 
   
 
 - 名称解释
